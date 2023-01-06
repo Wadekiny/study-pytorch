@@ -1,0 +1,10 @@
+data
+backup
+__pycache__
+.dataprocess.py.un~
+.net.py.un~
+.net.py.un~
+.train.py.un~
+.dataset.py.un~
+demographics.csv
+model
